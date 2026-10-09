@@ -34,7 +34,7 @@ Mở http://127.0.0.1:5000. Lần đầu khởi động cần tải model (vài 
 |---|---|---|
 | **Quality Score** (🟢🟡🔴) | Ảnh đầu vào dễ hay khó đọc: độ nét, sáng, tương phản, độ phân giải, nhiễu, nền không đều/bóng, độ nghiêng, chữ quá nhỏ | `quality.py` + `input_advisor.py` (cục bộ, không AI ngoài) |
 | **OCR Confidence** | Mức tự tin của model VietOCR (theo ký tự). **Không phải** độ chính xác thật | `ocr_engine.py` |
-| **Accuracy** | Độ đúng thật = so với văn bản chuẩn (Ground Truth): CER, WER, Character Accuracy | `accuracy.py`, chỉ khi CÓ Ground Truth |
+| **Accuracy** | Độ đúng thật = so với văn bản chuẩn (Ground Truth): CER, WER, Character Accuracy | `accuracy.py` |
 
 Chưa có Ground Truth thì giao diện hiện **"Accuracy: Chưa đánh giá"**, không có con số nào.
 
