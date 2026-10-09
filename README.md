@@ -1,6 +1,6 @@
 # OCR-Web — Nhận diện văn bản tiếng Việt
 
-Website OCR chạy hoàn toàn trên máy bạn cho **văn bản in / đánh máy** từ ảnh (PNG, JPG, JPEG, WEBP). Không nhận PDF làm đầu vào OCR (PDF chỉ dùng để nạp Ground Truth, xem bên dưới).
+Website OCR chạy hoàn toàn trên máy bạn cho **văn bản in / đánh máy** từ ảnh (PNG, JPG, JPEG, WEBP)
 Phát hiện vùng chữ bằng **PaddleOCR**, đọc chữ bằng **VietOCR**, có chấm độ tin cậy từng dòng và (tùy chọn) AI chỉnh sửa
 
 ## Chạy
