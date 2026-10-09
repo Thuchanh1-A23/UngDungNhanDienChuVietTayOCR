@@ -28,7 +28,7 @@ Mở http://127.0.0.1:5000. Lần đầu khởi động cần tải model (vài 
 - **AI hiệu đính (tùy chọn)**: Gemini (hoặc Claude dự phòng). Chỉ gửi văn bản (không gửi ảnh); AI chỉ ĐỀ XUẤT, từng đề xuất có nút
   *Áp dụng chỉnh sửa / Giữ nguyên*, không tự ghi đè kết quả OCR gốc. Không có AI hoặc AI lỗi thì OCR vẫn chạy bình thường.
 
-## Ba chỉ số khác nhau — đừng nhầm
+## Ba chỉ số khác nhau 
 
 | Chỉ số | Là gì | Nguồn |
 |---|---|---|
